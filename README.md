@@ -1,5 +1,5 @@
-# Automation_API
+# Automation_UI
 
 ### What is this repository for? ###
 
-* This repo hosts API automation tests for our pair buddy improvement program.
+* This repo hosts selenium automation tests for our pair buddy improvement program.
